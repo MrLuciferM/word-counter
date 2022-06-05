@@ -1,0 +1,13 @@
+.counter {
+    width: 10em;
+    display: inline-block;
+}
+
+.title {
+    margin: 0%;
+    font-size: medium;
+}
+
+.value {
+    margin: 0;
+}
